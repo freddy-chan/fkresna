@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi 👋, I'm Freddy
+### Full Stack Developer
 
-<!--
-**fkresna/fkresna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Technologies
+- PHP/Laravel
+- Amazon Web Service: EC2, RDS, S3, Cloudfront, Route53, SES
+- Linux: Centos, AWS Linux, and Ubuntu
+- Vue/Nuxt
+- Mysql/MariaDB
 
-Here are some ideas to get you started:
+Education
+- MS in Information Technology, University of South Florida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certificates
+- OCA Java 7
+- Google Apps Deployment
+- Google Apps for Education
+
+Misc
+- 🌱 I’m currently learning GoLang to handle large file processing.
+- 🔭 I’m currently working on church information system.
+- 🤔 I’m looking for help with church information system.
+- 📫 How to reach me: freddy@kresna.xyz
