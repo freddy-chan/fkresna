@@ -14,7 +14,7 @@ Education
 - MS in Information Technology, University of South Florida
 
 Certificates
-- [OCA Java 7] (https://www.credly.com/badges/e80910e2-0c54-43c3-99b1-a0e3a9712c2e/)
+- (OCA Java 7)[https://www.credly.com/badges/e80910e2-0c54-43c3-99b1-a0e3a9712c2e/]
 - Google Apps Deployment
 - Google Apps for Education
 
