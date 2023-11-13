@@ -1,12 +1,11 @@
 # Hi 👋, I'm Freddy
-### Full Stack Developer
+### Software Developer
 
 Current Technologies
-- PHP/Laravel
-- Python/SAM
+- Tailwind, AlpineJS, Laravel, and Livewire (TALL) stack
 - NodeJS/TypeScript
-- GoLang command line and API
-- Amazon Web Service: EC2, RDS, S3, Cloudfront, Route53, SES
+- GoLang CLI with Cobra
+- Amazon Web Service: EC2, RDS, S3, Cloudfront, Route53, SES, IAM, etc
 - Linux: Centos, AWS Linux, and Ubuntu
 - Vue/Nuxt
 - Mysql/MariaDB
